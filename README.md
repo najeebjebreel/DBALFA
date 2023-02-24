@@ -1,5 +1,5 @@
 # Defending Against Backdoor Attacks by Layer-wise Feature Analysis
-This repository contains PyTorch implementation of the paper: Defending Against Backdoor Attacks by Layer-wise Feature Analysis that has been accepted to The Pacific-Asia Conference on Knowledge Discovery and Data Mining [(PAKDD 2023)](https://pakdd2023.org/).
+This repository contains PyTorch implementation of the paper: Defending Against Backdoor Attacks by Layer-wise Feature Analysis that has been accepted to the Pacific-Asia Conference on Knowledge Discovery and Data Mining [(PAKDD 2023)](https://pakdd2023.org/).
 
 ## Paper 
 [Defending Against Backdoor Attacks by Layer-wise Feature Analysis]()
