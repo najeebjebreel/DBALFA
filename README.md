@@ -23,6 +23,6 @@ Also, please download pretrained attacked DNNs via this link (https://www.dropbo
 Required packages and libraries are in `requirements.txt`
 
 
-## Note
-We will provide the remaining codes for reproducing our main experiments upon the acceptance of our paper.
+## Citation
+Jebreel, N. M., Domingo-Ferrer, J., & Li, Y. (2023, May). Defending against backdoor attacks by layer-wise feature analysis. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 428-440). Cham: Springer Nature Switzerland.
 
