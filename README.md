@@ -1,6 +1,8 @@
 # DBALFA: Defending Against Backdoor Attacks by Layer-wise Feature Analysis
 
 [![Paper](https://img.shields.io/badge/Paper-PAKDD%202023-blue)](https://link.springer.com/chapter/10.1007/978-3-031-33377-4_33)
+[![Best Paper Award](https://img.shields.io/badge/🏆%20Best%20Paper-PAKDD%202023-gold)](https://link.springer.com/chapter/10.1007/978-3-031-33377-4_33)
+[![IJCAI 2024](https://img.shields.io/badge/Invited-IJCAI%202024%20Sisters%20Track-purple)](https://ijcai24.org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.anaconda.com/download)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8%2B-orange)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
@@ -20,8 +22,10 @@ This repository provides a reproducible implementation of the experiments report
 ## Paper
 
 **Defending Against Backdoor Attacks by Layer-wise Feature Analysis**
-Najeeb M. Jebreel, Josep Domingo-Ferrer, Yuxuan Li
+Najeeb M. Jebreel, Josep Domingo-Ferrer, Yiming Li
 *Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)*, pp. 428–440, Springer Nature Switzerland, 2023
+🏆 **Best Paper Award — PAKDD 2023**
+📢 Invited to appear in **IJCAI 2024 (Sisters Conference Track)**
 🔗 [Read on Springer](https://link.springer.com/chapter/10.1007/978-3-031-33377-4_33)
 
 ---
@@ -142,7 +146,7 @@ If you use this code or build upon this work, please cite:
 ```bibtex
 @inproceedings{jebreel2023dbalfa,
   title     = {Defending Against Backdoor Attacks by Layer-wise Feature Analysis},
-  author    = {Jebreel, Najeeb Moharram and Domingo-Ferrer, Josep and Li, Yuxuan},
+  author    = {Jebreel, Najeeb Moharram and Domingo-Ferrer, Josep and Li, Yiming},
   booktitle = {Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)},
   pages     = {428--440},
   year      = {2023},
