@@ -171,6 +171,3 @@ Developed at the **[CRISES Research Group](https://crises-deim.urv.cat/)**, [Uni
 
 ---
 
-## Contact
-
-For questions or issues, please open a [GitHub issue](https://github.com/najeebjebreel/DBALFA/issues) or contact [Najeeb Jebreel](mailto:nageeb3gebreel@gmail.com).
