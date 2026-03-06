@@ -146,7 +146,8 @@ If you use this code or build upon this work, please cite:
   booktitle = {Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)},
   pages     = {428--440},
   year      = {2023},
-  publisher = {Springer Nature Switzerland}
+  publisher = {Springer Nature Switzerland},
+  doi       = {10.1007/978-3-031-33377-4_33}
 }
 ```
 
@@ -158,6 +159,18 @@ This research was funded by the European Commission (projects H2020-871042 "SoBi
 
 ---
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ## Affiliation
 
 Developed at the **[CRISES Research Group](https://crises-deim.urv.cat/)**, [Universitat Rovira i Virgili (URV)](https://www.urv.cat/en/), Tarragona, Catalonia.
+
+---
+
+## Contact
+
+For questions or issues, please open a [GitHub issue](https://github.com/najeebjebreel/DBALFA/issues) or contact [Najeeb Jebreel](mailto:nageeb3gebreel@gmail.com).
