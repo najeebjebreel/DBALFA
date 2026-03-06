@@ -1,6 +1,6 @@
 # DBALFA: Defending Against Backdoor Attacks by Layer-wise Feature Analysis
 
-[![Paper](https://img.shields.io/badge/Paper-PAKDD%202023-blue)](https://arxiv.org/abs/2302.12758)
+[![Paper](https://img.shields.io/badge/Paper-PAKDD%202023-blue)](https://link.springer.com/chapter/10.1007/978-3-031-33377-4_33)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.anaconda.com/download)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8%2B-orange)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
@@ -22,7 +22,7 @@ This repository provides a reproducible implementation of the experiments report
 **Defending Against Backdoor Attacks by Layer-wise Feature Analysis**
 Najeeb M. Jebreel, Josep Domingo-Ferrer, Yuxuan Li
 *Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)*, pp. 428–440, Springer Nature Switzerland, 2023
-🔗 [Read on arXiv](https://arxiv.org/abs/2302.12758)
+🔗 [Read on Springer](https://link.springer.com/chapter/10.1007/978-3-031-33377-4_33)
 
 ---
 
